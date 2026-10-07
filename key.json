@@ -13,7 +13,7 @@
     ],
     "title": "BY EGI",
     "updateMsg": "APK LAGI UPDATE SBR NYAK",
-    "updateRequired": true,
+    "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {

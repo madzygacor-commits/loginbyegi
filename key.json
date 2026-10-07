@@ -1,6 +1,6 @@
 {
   "AppConfig": {
-    "bannerText": "Awaiting Authentication.",
+    "bannerText": "APK LAGI OFF",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://t.me/dpmodsdialog",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
@@ -13,9 +13,9 @@
       "🚀 DPMods V4 🚀",
       "🛠 Stable Build"
     ],
-    "title": "DPMods Core",
+    "title": "BY EGI",
     "updateMsg": "New DPMods version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {
